@@ -1,3 +1,5 @@
-To set up a camera that smoothly followed an object, drag the camera to Follower in the inspector, as well as the target obejct to the Object field.
+To set up a camera that smoothly follows an object, drag the camera to the Follower field in the inspector.
 
-You can use this for other objects outside camera too.
+Do the same thing with the target object to the Object field.
+
+You can use this for other objects other than camera too.
